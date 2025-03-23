@@ -21,10 +21,10 @@
   <table>
     <tr>
       <td style="margin-botton: 20px;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent&title_color=bd00ff&text_color=8603bb&icon_color=f5200ff" alt="Laysa Bernardes GitHub stats"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=PedroXav&show_icons=true&theme=transparent&title_color=6D2323&text_color=E5D0AC&icon_color=A31D1D" alt="Pedro Xavier GitHub stats"/>
       </td>
       <td>
-        <img align="left" src="https://streak-stats.demolab.com?user=Laysabernardes&theme=transparent&stroke=bd00ff&ring=bd00ff&fire=bd00ff&sideNums=bd00ff&sideLabels=bd00ff&dates=bd00ff&excludeDaysLabel=bd00ff&currStreakNum=bd00ff&currStreakLabel=bd00ff" alt="GitHub Streak"/>
+        <img align="left" src="https://streak-stats.demolab.com?user=PedroXav&theme=transparent&stroke=E5D0AC&ring=6D2323&fire=A31D1D&sideNums=A31D1D&sideLabels=E5D0AC&dates=6D2323&excludeDaysLabel=6D2323&currStreakNum=6D2323&currStreakLabel=E5D0AC" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -36,12 +36,12 @@
 <table>
   <tr>
     <td>
-      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent&title_color=bd00ff&text_color=bd00ff" alt="Github stats"/>
+      <img width="1600em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXav&layout=compact&langs_counts=16&theme=transparent&title_color=6D2323&text_color=E5D0AC" alt="Github stats"/>
     </td>
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img height="250em" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,cs,java,py,nodejs,express,mongodb,mysql,github,git,visualstudio,vscode&perline=6&theme=light" alt="GitHub Streak"/>
+          <img height="250em" src="https://skillicons.dev/icons?i=js,html,css,cs,java,mysql,github,git" alt="GitHub Streak"/>
         </a>
       </p>
     </td>
