@@ -1,15 +1,15 @@
 ![Texto Alternativo](src/1.png)
 
-## 🌟 Sobre mim 🌟
+## SOBRE MIM 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: left; margin-right: 50px;">
     <ul>
-      <li>Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> do Instituto Federal de São Paulo - IFSP CBT. 👩‍🎓</li>
-      <li>Participo de uma <strong>iniciação científica</strong> que explora o uso de <strong>Inteligência Artificial Generativa</strong> em conjunto com o método <strong>Pair Programming </strong> para auxiliar o aprendizado de <strong>Python</strong>.🤖</li>
-      <li>Tenho um perfil organizado, valorizo o <strong>planejamento</strong> estou desenvolvendo minhas habilidades de <strong>liderança</strong>. 🗂</li>
-      <li>Confira meus <strong>projetos</strong> e acompanhe minha jornada na programação.💻</li>
-      <li>Estou estudando <strong> JavaScript, Node.js , React e Python.</strong>👩‍💻</li>
-      <li>Estou em busca de uma <strong> oportunidade na área de desenvolvimento.💼</strong></li>
+      <li>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> do Instituto Federal de São Paulo - CBT 🦜</li>
+      <li>Atualmente focando em desenvolver habilidades para o lado do front-end 📘</li>
+      <li> Estou sempre aberto a aprender e a colaborar com outras pessoas tão focadas quanto eu, pois acredito que a troca de ideias é essencial para alcançar resultados notáveis.
+      🚀 </li>
+      <li>Estou em busca de uma <strong>oportunidade na área</strong> 💼</li>
+      <li>Entre em contato comigo no final da página e vamos crescer juntos!📞</li>
     </ul>
   </div>
 </div>
@@ -20,14 +20,14 @@
   <img align="left" src="src/2.png" alt="Github stats"/>
   <table>
     <tr>
-      <td style="margin-botton: 20px;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=PedroXav&show_icons=true&theme=transparent&title_color=6D2323&text_color=E5D0AC&icon_color=A31D1D" alt="Pedro Xavier GitHub stats"/>
+      <td >
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=PedroXav&show_icons=true&theme=transparent&title_color=6D2323&text_color=E5D0AC&icon_color=A31D1D" alt="Pedro GitHub stats"/>
       </td>
       <td>
-        <img align="left" src="https://streak-stats.demolab.com?user=PedroXav&theme=transparent&stroke=E5D0AC&ring=6D2323&fire=A31D1D&sideNums=A31D1D&sideLabels=E5D0AC&dates=6D2323&excludeDaysLabel=6D2323&currStreakNum=6D2323&currStreakLabel=E5D0AC" alt="GitHub Streak"/>
+        <img align="left" src="https://streak-stats.demolab.com?      user=PedroXav&theme=transparent&stroke=E5D0AC&ring=6D2323&fire=A31D1D&sideNums=A31D1D&sideLabels=E5D0AC&dates=6D2323&excludeDaysLabel=6D2323&currStreakNum=6D2323&currStreakLabel=E5D0AC" alt="GitHub Streak"/>
       </td>
-    </tr>
-  </table>
+   </tr>
+</table>
 </div>
 
 ##
@@ -36,13 +36,11 @@
 <table>
   <tr>
     <td>
-      <img width="1600em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXav&layout=compact&langs_counts=16&theme=transparent&title_color=6D2323&text_color=E5D0AC" alt="Github stats"/>
+      <img  height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXav&layout=compact&langs_counts=16&theme=transparent&title_color=6D2323&text_color=E5D0AC" alt="Github stats"/>
     </td>
     <td>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img height="250em" src="https://skillicons.dev/icons?i=js,html,css,cs,java,mysql,github,git" alt="GitHub Streak"/>
-        </a>
+          <img height="270em" src="https://skillicons.dev/icons?i=swift,java,cs,js,html,css,mysql,vscode,git,github,canva&perline=5&theme=light" alt="GitHub Streak"/>
       </p>
     </td>
   </tr>
@@ -51,9 +49,9 @@
 ## 
 ![Texto Alternativo](src/4.png)
 
-<div> 
-  <a href="https://instagram.com/laysa_bernardes" target="_blank"><img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" target="_blank"></a>
-  <a href = "mailto:laysabernardes.ads@gmail.com"><img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laysabernardes/" target="_blank"><img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" target="_blank"></a> 
-  <a href="https://laysabernardes.github.io/portfolio/" target="_blank"><img src="https://img.icons8.com/?size=100&id=5zuVgEwv1rTz&format=png&color=000000" target="_blank"></a> 
+<div align="center"> 
+  <a href="https://www.instagram.com/pedru.ez/" target="_blank"> <img height="80em" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="icone instagram" target="_blank""></a>
+  <a href = "mailto:pxo2005@gmail.com"><img height="80em" src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" alt="icone gmail" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-xavier-oliveira/" target="_blank"><img height="80em" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="icone linkedin" target="_blank"></a>
+  
 </div>
