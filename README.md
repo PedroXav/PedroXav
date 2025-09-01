@@ -39,10 +39,10 @@ Entre em contato comigo no final da página e vamos crescer juntos! 📞
   <table>
     <tr>
        <td>
-        <img height="250em" width="700" align="left" src="https://github-readme-stats.vercel.app/api?username=PedroXav&show_icons=true&theme=transparent&title_color=6D2323&text_color=E5D0AC&icon_color=A31D1D" alt="Pedro GitHub stats"/>
+        <img height="250em" align="left" src="https://github-readme-stats.vercel.app/api?username=PedroXav&show_icons=true&theme=transparent&title_color=6D2323&text_color=E5D0AC&icon_color=A31D1D" alt="Pedro GitHub stats"/>
       </td>
       <td>
-        <img height="250em" width="750" align="left" src="https://streak-stats.demolab.com?user=PedroXav&theme=transparent&stroke=E5D0AC&ring=6D2323&fire=A31D1D&sideNums=A31D1D&sideLabels=E5D0AC&dates=6D2323&excludeDaysLabel=6D2323f&currStreakNum=6D2323&currStreakLabel=E5D0AC" alt="GitHub Streak"/>
+        <img height="250em" align="left" src="https://streak-stats.demolab.com?user=PedroXav&theme=transparent&stroke=E5D0AC&ring=6D2323&fire=A31D1D&sideNums=A31D1D&sideLabels=E5D0AC&dates=6D2323&excludeDaysLabel=6D2323f&currStreakNum=6D2323&currStreakLabel=E5D0AC" alt="GitHub Streak"/>
       </td>
    </tr>
 </table>
