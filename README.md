@@ -5,8 +5,6 @@
   <div style="text-align: left; margin-right: 50px;">
    Sou estudante de Análise e Desenvolvimento de Sistemas do Instituto Federal de São Paulo - CBT 🦜
 <br><br>
-Atualmente focando em desenvolver habilidades para o lado do front-end 📘
-<br><br>
 Estou sempre aberto a aprender e a colaborar com outras pessoas tão focadas quanto eu, pois acredito que a troca de ideias é essencial para alcançar resultados notáveis. 🚀
 <br><br>
 Estou em busca de uma oportunidade na área 💼
@@ -26,7 +24,7 @@ Entre em contato comigo no final da página e vamos crescer juntos! 📞
     </td>
     <td>
       <p align="center">
-          <img height="270em" src="https://skillicons.dev/icons?i=swift,java,cs,js,html,css,mysql,vscode,git,github,canva&perline=5&theme=light" alt="GitHub Streak"/>
+          <img height="270em" src="https://skillicons.dev/icons?i=swift,java,cs,js,html,css,mysql,visualstudio,vscode,git,github,canva&perline=5&theme=light" alt="GitHub Streak"/>
       </p>
     </td>
   </tr>
@@ -40,11 +38,11 @@ Entre em contato comigo no final da página e vamos crescer juntos! 📞
   <img align="left" src="src/2.png" alt="Github stats"/>
   <table>
     <tr>
-      <td >
-        <img src="https://github-readme-stats.vercel.app/api?username=PedroXav&show_icons=true&theme=transparent&title_color=6D2323&text_color=E5D0AC&icon_color=A31D1D" alt="Pedro GitHub stats"  width="440"/>
+       <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=PedroXav&show_icons=true&theme=transparent&title_color=6D2323&text_color=E5D0AC&icon_color=A31D1D" alt="Pedro GitHub stats"/>
       </td>
       <td>
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroXav&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true"  width="500"/>
+        <img align="left" src="https://streak-stats.demolab.com?user=PedroXav&theme=transparent&stroke=E5D0AC&ring=6D2323&fire=A31D1D&sideNums=A31D1D&sideLabels=E5D0AC&dates=6D2323&excludeDaysLabel=6D2323f&currStreakNum=6D2323&currStreakLabel=E5D0AC" alt="GitHub Streak"/>
       </td>
    </tr>
 </table>
@@ -58,7 +56,7 @@ Entre em contato comigo no final da página e vamos crescer juntos! 📞
   <tr>
     <td>
   <a href="https://www.instagram.com/pedru.ez/" target="_blank"> <img height="80em" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="icone instagram" target="_blank""></a>
-  <a href = "mailto:pxo2005@gmail.com"><img height="80em" src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" alt="icone gmail" target="_blank"></a>
+  <a href = "mailto:pxo2005@gmail.com"><img height="80em" width="67" src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" alt="icone gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-xavier-oliveira/" target="_blank"><img height="80em" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="icone linkedin" target="_blank"></a>
       </td>
   </tr>
